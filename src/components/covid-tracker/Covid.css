@@ -1,0 +1,11 @@
+.prince:hover{
+    cursor: pointer;
+    color: red;
+    transform: scale(0.9);
+    -ms-transform-origin-z: 1px 0px 0px;
+}
+.prince{
+    border-radius: 40px;
+  
+
+}
